@@ -26,10 +26,10 @@
 - ✅ عرض المنتجات في 3 فئات (Pink / Purple / Blue Sweets)
 
 ---
-## 📸 صور من المشروع
+#### 📸 صور من المشروع
 
 ### شاشة تسجيل الدخول
-![Login Screen](loginscreen.png)
+![Login Screen](https://github.com/enasabdo299/sweet-shop-mobile/blob/main/loginscreen.png?raw=true)
 
 ### شاشة إنشاء حساب
 ![Sign Up Screen](sin_upscreen.png)
