@@ -1,16 +1,45 @@
-# sweetshop
+# 🍬 Sweet Shop Mobile App
 
-A new Flutter project.
+تطبيق موبايل لمتجر حلويات تم تطويره باستخدام **Flutter**، يشمل سلة شراء وقاعدة بيانات محلية ونظام مصادقة بسيط.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🛠️ التقنيات المستخدمة
 
-A few resources to get you started if this is your first Flutter project:
+| التقنية | الاستخدام |
+|---------|-----------|
+| Flutter | إطار العمل الرئيسي |
+| Dart | لغة البرمجة |
+| SQLite (sqflite) | قاعدة بيانات محلية |
+| Provider | إدارة الحالة (State Management) |
+| SharedPreferences | حفظ جلسة المستخدم |
+| Material Design | تصميم واجهات المستخدم |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✅ الميزات المنفذة
+
+- ✅ تصميم واجهات المستخدم بالكامل (3 شاشات رئيسية)
+- ✅ قاعدة بيانات SQLite محلية (3 جداول: Users, Products, Cart)
+- ✅ نظام إضافة منتجات إلى السلة
+- ✅ نظام تسجيل دخول وتحديث بيانات المستخدم
+- ✅ عرض المنتجات في 3 فئات (Pink / Purple / Blue Sweets)
+
+---
+
+## 🚧 قيد التطوير (Coming Soon)
+
+- 🔲 نظام دفع إلكتروني
+- 🔲 إشعارات الدفع (Push Notifications)
+- 🔲 الاتصال بالسحاب (Firebase)
+
+---
+
+## 🚀 كيفية تشغيل المشروع
+
+1. تأكد من تثبيت Flutter SDK
+2. شغلي الأوامر:
+
+```bash
+flutter pub get
+flutter run
