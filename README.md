@@ -26,7 +26,48 @@
 - ✅ عرض المنتجات في 3 فئات (Pink / Purple / Blue Sweets)
 
 ---
+## 📸 صور من المشروع
 
+### شاشة تسجيل الدخول
+![Login Screen](loginscreen.png)
+
+### شاشة إنشاء حساب
+![Sign Up Screen](sin_upscreen.png)
+
+### شاشة استعادة كلمة المرور
+![Forgot Password Screen](forgotpasswordscreen.png)
+
+### الصفحة الرئيسية
+![Home Screen](homescreen.png)
+
+### شاشة المنتجات الوردي
+![Pink Screen](pinkscreen.png)
+
+### شاشة المنتجات البنفسجي
+![Purple Screen](purplescreen.png)
+
+### شاشة المنتجات الأزرق
+![Blue Screen](bluescreen.png)
+
+### شاشة سلة الشراء
+![Cart Screen](cartscreen.png)
+
+### الملف الشخصي
+![Profile Screen](profilescreen.png)
+
+### لوحة التحكم
+![Dashboard Screen](dashboardscreen.png)
+
+### إدارة المنتجات
+![Manage Products Screen](manageproductsscreen.png)
+
+### إدارة الطلبات
+![Manage Orders Screen](manageordersscreen.png)
+
+### إدارة المستخدمين
+![Manage Users Screen](manageusersscreen.png)
+
+---
 ## 🚧 قيد التطوير (Coming Soon)
 
 - 🔲 نظام دفع إلكتروني
